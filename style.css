@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+header { background-color: #f9f9f9; padding: 20px; display: flex; justify-content: space-between; align-items: center; }
+.logo { width: 150px; }
+.try-btn, .get-started { background-color: #ff52bf; color: white; border: none; padding: 10px 20px; margin: 20px; cursor: pointer; border-radius: 5px; }
+.hero { padding: 40px 20px; }
+.mockup { width: 80%; max-width: 600px; margin-bottom: 20px; }
